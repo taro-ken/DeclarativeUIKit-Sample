@@ -1,0 +1,16 @@
+PODS:
+  - DeclarativeUIKit (1.2.0)
+
+DEPENDENCIES:
+  - DeclarativeUIKit
+
+SPEC REPOS:
+  trunk:
+    - DeclarativeUIKit
+
+SPEC CHECKSUMS:
+  DeclarativeUIKit: dd9e816d965b9a67c2f70252ffa9024170fa14da
+
+PODFILE CHECKSUM: d06366f238d3a8073b6d3d9efc0f6fdcadd2c494
+
+COCOAPODS: 1.11.3

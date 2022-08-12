@@ -1,0 +1,6 @@
+framework module Pods_DeclarativeUIKit_Sample_DeclarativeUIKit_SampleUITests {
+  umbrella header "Pods-DeclarativeUIKit-Sample-DeclarativeUIKit-SampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
